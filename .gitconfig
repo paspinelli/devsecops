@@ -1,0 +1,5 @@
+[user]
+	name = Pablo Paris
+	email = pablo.spinelli@outlook.com
+[init]
+	templatedir = /root/.git-templates
